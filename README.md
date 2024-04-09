@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NguyenChiThuan0509
 - 👀 I’m interested in IT.
-- 🌱 Tôi đang học tại trường Đại Học Cần Thơ và chuẩn bị tốt nghiệp vào cuối năm 2024 này.
+- 🌱 I am studying at Can Tho University and preparing to graduate by the end of this year, 2024.
 - 📫 How to reach me ... email: ncthuan0509@gmail.com
 
 <!---
