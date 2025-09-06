@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🏫 Graduated with a degree in Computer Science from Can Tho University, Vietnam.</br>
+📋 Link CV: https://drive.google.com/file/d/1fz3JLv1zjDHs51aBqC7isqT1EpdsXwt6/view?usp=sharing</br>
 
 
 ## 🌐 Socials:
