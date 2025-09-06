@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🏫 Graduated with a degree in Computer Science from Can Tho University, Vietnam.</br>
 📋 Link CV: [https://drive.google.com/file/d/1fz3JLv1zjDHs51aBqC7isqT1EpdsXwt6/view?usp=sharing](https://byvn.net/UrVp)</br>
 hoặc quét mã QR</br>
-<img width="1000" height="1000" alt="QR-code-UrVp" src="https://github.com/user-attachments/assets/d8dfc7d2-2690-483f-aeaa-69096c8715fe" />
+<img width="100" height="100" alt="QR-code-UrVp" src="https://github.com/user-attachments/assets/d8dfc7d2-2690-483f-aeaa-69096c8715fe" />
 
 
 
